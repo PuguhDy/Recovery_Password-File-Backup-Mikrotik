@@ -9,7 +9,8 @@
  5. siapkan file backupnya dalam 1 folder
 ```
 
-Sumber di ambil dari [File](http://manio.skyboo.net/mikrotik/)
-Download file [backup](http://xcodetraining.com/mikrotik.backup.zip)
-### Hasil test
+### Sumber di ambil dari [File](http://manio.skyboo.net/mikrotik/) 
+### Download file contoh backup mikrotik [backup](http://xcodetraining.com/mikrotik.backup.zip)
+
+## Hasil test
 ![Alt text](https://github.com/PuguhDy/Recovery_Password-File-Backup-Mikrotik/blob/main/hasil.jpg)
